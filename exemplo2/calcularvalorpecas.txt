@@ -1,0 +1,12 @@
+Algoritmo valordepeças
+	Entre com um valor para quantidade
+	Entre com um valor para valor
+	Faça VT = quantidade * valor
+	Mostre VT
+
+
+
+Teste de Mesa
+QNTD	Valor	VT
+10	10	100
+9	5	45

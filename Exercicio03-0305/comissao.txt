@@ -1,0 +1,13 @@
+Algoritmo comissão
+	Entre com o preço unitário de cada peça e atribua para preco_peca
+	Entre com a quantidade de peças vendidas e atribua para quantidade_vendas
+	Faça preco_peca * quantidade_vendas e atribua para vendas
+	Faça vendas * (1+5/100) e atribua para comissao
+	Mostre comissao
+FimAlgoritmo
+
+
+Teste de Mesa
+preco_peca	quantidade_vendas	vendas	comissao
+2.5		200			500	25
+2.5		400			1000	50

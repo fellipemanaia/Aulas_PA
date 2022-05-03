@@ -1,0 +1,14 @@
+Algotitmo conversão do dólar
+	Entre com um valor em Reais e atribua para valor_reais
+	Entre com o valor da contação do Dólar em Reais e atribua para cotacao
+	Faça valor_reais/cotacao e atribua pra valor_convertido
+	Mostre valor_convertido
+FimAlgoritmo
+
+
+
+
+Teste de Mesa
+valor_reais	cotacao		valor_convertido
+100		5		20
+500		5		100

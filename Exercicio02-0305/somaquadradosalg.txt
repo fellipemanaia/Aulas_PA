@@ -1,0 +1,15 @@
+Algoritmo Soma de Quadrados
+	Entre com um valor e atribua para n1
+	Entre com um valor e atribua para n2
+	Entre com um valor e atribua para n3
+	Entre com um valor e atribua para n4
+	Faça (n1*n1)+(n2*n2)+(n3*n3)+(n4*n4) e atribua pra soma
+	Mostre soma
+FimAlgoritmo
+
+
+
+Teste de Mesa
+n1	n2	n3	n4	soma	
+1	2	3	4	(1*1)+(2*2)+(3*3)+(4*4)=30
+2	3	4	5	(2*2)+(3*3)+(4*4)+(5*5)=54

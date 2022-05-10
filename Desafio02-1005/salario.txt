@@ -1,0 +1,16 @@
+Algoritmo Salario
+	Entre com um valor para horas e atribua para horas
+	Entre com um valor entre 0 e 59 para minutos e atribua para minutos
+	Entre com um valor para dinheiro por hora e atribua a dinheiro
+	Faça (minutos / 60) + horas e atribua para convertido
+	Faça convertido * dinheiro e atribua a porcentagem
+	Faça porcentagem * 1,7 e atribua a salario
+	Mostre salario
+FimAlgoritmo
+
+
+
+Teste de Mesa
+Horas	Minutos Convertido	dinheiro	salario
+15	45	15.75		25		669,37
+20	0	20		25		850	

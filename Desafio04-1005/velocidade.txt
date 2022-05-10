@@ -1,0 +1,16 @@
+Algoritmo velocidade media
+	Entre com um valor para o percurso percorrido e atribua para km
+	Entre com um valor para as horas gastas e atribua a horas
+	Entre com um valor entre 0 e 59 para os minutos gastos e atribua a minutos 
+	Faça (minutos / 60) + horas e atribua a conversao
+	Faça km / conversao e atribua a media
+	Mostre media
+FimAlgoritmo
+
+
+
+Teste de Mesa
+km	horas	minutos	conversao	media
+150	1	13	1,22		122
+150	1	0	1		150
+	

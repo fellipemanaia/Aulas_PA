@@ -1,0 +1,14 @@
+Algoritmo Conversão de horas
+	Entre com um valor para horas e atribua para horas
+	Entre com um valor entre 0 e 59 para minutos e atribua para minutos
+	Faça (minutos / 60) + horas e atribua para convertido
+	Mostre convertido
+FimAlgoritmo
+
+
+
+Teste de Mesa
+Horas	Minutos Convertido
+4	23	4.38
+3	40	3.67
+1	32	1.52	

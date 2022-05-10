@@ -1,0 +1,14 @@
+Algoritmo gasto gasolina
+	Entre com um valor para quilometros percorridos e atribua a percorrer
+	Entre com um valor para media de quilometros por litro e atribua a mediagas
+	Entre com um valor para preço da gasolina e atribua para gasolina
+	Faça (percorrer / mediagas) * gasolina e atribua a gasto
+	Mostre gasto
+FimAlgoritmo
+
+
+
+Teste de Mesa
+pecorrer mediagas	gasolina	gasto
+450	 10		4,50		202
+	

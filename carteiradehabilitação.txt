@@ -1,0 +1,37 @@
+algoritmo "Carteira de Habilitação"
+// Função : Ver se a pessoa tem carteira de habilitação
+// Autor : Fellipe M.
+// Data : 21/06/2022
+// Seção de Declarações 
+var
+
+//CRIAR AS VARIÁVEIS
+
+verificacao,h,cond1,cond2: logico
+idade: inteiro
+
+inicio
+
+//SOLICITAR AO USUÁRIO A IDADE
+escreval ("Digite a sua idade: ")
+leia(idade)
+
+//SOLICITAR AO USUÁRIO SE ELE TEM CARTEIRA DE MOTORISTA
+escreval ("Digite se você possuí carteira de motorista (com verdadeiro ou falso): ")
+leia(h)
+
+//RESOLVER A CONDIÇÃO 1
+cond1 <- (idade>=18)
+
+//RESOLVER A CONDIÇÃO 2
+cond2 <- (h e verdadeiro)
+
+//VERIFICAR SE ESTÁ OU NÃO HABILIATDO A DIRIGIR
+verificacao <- (cond1 e cond2)
+escreval ("Pode dirigir? ", verificacao)
+
+
+
+
+
+fimalgoritmo

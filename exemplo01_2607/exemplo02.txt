@@ -1,0 +1,13 @@
+Algoritmo Exemplo01
+    Entre com um valor inteiro e atribua para idade
+   Se idade >=18 entao
+      entre com SIM ou NAO para Habilitado
+      se Habilitado=SIM entao
+	  escreva "pode passar"
+      senao
+	  escreva "não pode dirigir
+      fimse
+   senao
+     escreva "NÃO PODE PASSAR"
+   FimSe
+FimAlgoritmo

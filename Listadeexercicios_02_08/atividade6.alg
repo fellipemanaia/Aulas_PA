@@ -6,18 +6,16 @@ algoritmo "Boxe"
 var
 peso:real
 inicio
-escreval("Digite o seu peso:")
-leia(peso)
 
 escreval("Digite seu peso")
  leia(peso)
 
  se (peso > 90.72) entao
-     escreval("Sua categoria é : pesado")
+     escreval("Sua categoria é : cruzador")
      senao
 
  se (peso < 90.72) entao
-     escreval("Sua categoria é :cruzador")
+     escreval("Sua categoria é :pesado")
      senao
 
  se (peso> 79.38) entao
